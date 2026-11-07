@@ -1,0 +1,45 @@
+# Changelog — Andromeda's Create
+
+## v0.2.7
+
+### "Tides & Transit"
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v027.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v027.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v027%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v027.zip)
+
+**Server:** ready-to-run NeoForge server, requires Java 21. **8 GB RAM or higher is recommended** in the launch arguments.
+
+**Minecraft:** 1.21.1 · **NeoForge:** 21.1.262
+
+**10 new mods** were added and **4 mods** were updated. No mods were removed.
+
+### Added
+
+- **[Create Encased](https://modrinth.com/mod/create-encased)** `1.9.0-ht3` — encased variants of Create's shafts, cogwheels, and belts.
+- **[Create Connected: Encased](https://modrinth.com/mod/create-connected-encased)** `1.1.0` — Create: Connected compatibility addon for Create Encased.
+- **[Create Deep Seas](https://modrinth.com/mod/create-deep-seas)** `3.4.4` *(BETA)* — underwater content and contraptions for Create.
+- **[Create: Cablecars](https://www.curseforge.com/minecraft/mc-mods/create-cablecars)** `1.0.4` — adds cable cars / ropeway transport to Create.
+- **[Create: Dynamic Village](https://modrinth.com/mod/dynamic-village)** `0.9` — dynamic/animated village additions.
+- **[Aquamirae](https://modrinth.com/mod/aquamirae)** `7.2.13` — new ocean structures, biomes, and bosses.
+- **[Fragmentum](https://modrinth.com/mod/fragmentum)** `5.4.0` — structure and content additions.
+- **[Iris & Oculus Flywheel Compat](https://modrinth.com/mod/iris-flw-compat)** `2.4.0` — lets Create's Flywheel rendering work with Iris shaders.
+- **[Keybind Search](https://modrinth.com/mod/keybind-search)** `1.0.0` — adds a search bar to the keybind controls menu.
+- **[MDMDyeDepotCompat](https://github.com/A-Little-Bit-of-Everything/MDMDyeDepotCompat)** `0.1.8` — compatibility patch (Design 'n Decor × Dye Depot).
+
+### Updated
+
+- **[Create: Stats & Power](https://modrinth.com/mod/create-graphs-power)** `1.15.0` → `1.15.33`
+- **[Sophisticated Core](https://modrinth.com/mod/sophisticated-core)** `1.5.13.2404` → `1.5.14.2413`
+- **[Surveyor Map Framework](https://modrinth.com/mod/surveyor)** `1.1.2+1.21` → `1.2.4+1.21`
+- **[YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)** `3.7.0+1.21.1` → `3.8.2+1.21.1`
+
+### Removed
+
+- None.
+
+---
+
+## v0.2.6
+
+Previous release (the version this changelog compares against). **Minecraft** 1.21.1 · **NeoForge** 21.1.262.
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v026.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v026.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v026%20CF.zip) · [Full v0.2.6 changelog](https://www.andromedacat.net/ac/changelogs/v026)

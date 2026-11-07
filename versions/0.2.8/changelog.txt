@@ -1,0 +1,76 @@
+# Changelog — Andromeda's Create
+
+## v0.2.8
+
+### "Cannons & Crops"
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v028.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v028.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v028%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v028.zip)
+
+**Server:** ready-to-run NeoForge server, requires Java 21. **8 GB RAM or higher is recommended** in the launch arguments.
+
+**Minecraft:** 1.21.1 · **NeoForge:** 21.1.262
+
+**28 new mods** were added. No mods were updated or removed. This is a big content drop centered on **Create Big Cannons**, the **Abnormals** world-content line, and a large **farming / food** expansion.
+
+### Added
+
+**Create Big Cannons & artillery**
+
+- **[Create Big Cannons](https://modrinth.com/mod/create-big-cannons)** `0.1.4c` — build, assemble, and fire working cannons with Create.
+- **[CBC: Going Ballistic](https://modrinth.com/mod/cbc-going-ballistic)** `0.3.1` — ballistic-munitions / warhead add-on for Create Big Cannons.
+- **[CBC: Compact Mounts](https://modrinth.com/mod/cbc-compact-mount)** `1.2.2` — compact cannon mounts and carriages.
+- **[Cannon Compressed Armor](https://modrinth.com/mod/cannon-compressed-armor)** `1.0.0` — armor/plating tuned for cannon builds.
+- **[Create: Bigger Tanks](https://modrinth.com/mod/create-bigger-tanks)** `6.0.10` — larger fluid tanks for Create.
+- **[Create SA Tank Fix](https://modrinth.com/mod/create-sa-tankfix)** `1.0.0` — compatibility fix for Create tanks.
+- **[Create: Radars](https://modrinth.com/mod/create-radar)** `0.4.9.4` — radar/targeting blocks and displays for Create.
+- **[Create Aero Radar](https://modrinth.com/mod/create-aero-radar)** `0.1.1` — airborne radar add-on for Create Radar.
+- **[Create: Sound of Steam (Pipe Organs)](https://modrinth.com/mod/pipe-organs)** `0.8.2` — playable pipe organs and musical contraptions.
+
+**Abnormals world content** *(+ Blueprint library)*
+
+- **[Blueprint](https://modrinth.com/mod/blueprint)** `8.2.0` — shared library for the Abnormals mods below.
+- **[Atmospheric](https://www.teamabnormals.com/mods/atmospheric)** `7.0.1` — warm/arid biomes, trees, and crops.
+- **[Autumnity](https://modrinth.com/mod/autumnity)** `6.0.1` — autumn-themed biome, mobs, and blocks.
+- **[Environmental](https://modrinth.com/mod/environmental)** `5.0.1` — new mobs, blocks, and biome touches.
+- **[Neapolitan](https://modrinth.com/mod/neapolitan)** `6.0.1` — strawberries, bananas, and vanilla-style treats.
+- **[Alex's Mobs Continued](https://modrinth.com/mod/alexs-mobs)** `2.2.3` — a large variety of new creatures.
+
+**Farming & food**
+
+- **[Pam's HarvestCraft 2 — Crops](https://modrinth.com/mod/pams-harvestcraft-2-crops)** `1.0.0` — the HarvestCraft crop base.
+- **[Pam's HarvestCraft 2 — Food Core](https://modrinth.com/mod/pams-harvestcraft-2-food-core)** `1.0.2` — core foods and cooking.
+- **[Pam's HarvestCraft 2 — Food Extended](https://modrinth.com/mod/pams-harvestcraft-2-food-extended)** `1.0.0` — the extended food/recipe set.
+- **[Pam's HarvestCraft 2 — Trees](https://modrinth.com/mod/pams-harvestcraft-2-trees)** `1.0.4` — fruit and nut trees.
+- **[Croptopia](https://modrinth.com/mod/croptopia)** `4.2.4` — adds a large set of real-world crops, foods, and recipes.
+- **[Croptopia's Delight](https://modrinth.com/mod/croptopiadelight)** `1.0.1` — Farmer's Delight cooking for Croptopia foods.
+- **[CompatDelight](https://modrinth.com/mod/compatdelight)** `1.0.1.1` — Farmer's Delight cross-mod compatibility.
+- **[Create Café](https://modrinth.com/mod/create-cafe)** `1.4.3` — coffee/café processing and drinks for Create.
+
+**Other content & utilities**
+
+- **[Create: Recycle Everything](https://modrinth.com/mod/create-recycle-everything)** `1.0.1` — recycle items back into resources with Create.
+
+**Libraries & frameworks** *(dependencies for the above)*
+
+- **[CodexLib](https://modrinth.com/mod/codxlib)** `1.6.1` — shared library.
+- **[EpheroLib](https://modrinth.com/mod/epherolib)** `1.2.0` — shared library.
+- **[OctoLib](https://modrinth.com/mod/octolib)** `0.6.2` — shared library.
+- **[Cardiac](https://modrinth.com/mod/cardiac)** `0.5.3.4` — shared library.
+
+### Updated
+
+- None.
+
+### Removed
+
+- None.
+
+> **Note:** *Ambush* `1.1.6` ships with this pack but is **disabled by default** (`.disabled`). Enable it manually in your mods folder if you want it.
+
+---
+
+## v0.2.7
+
+Previous release (the version this changelog compares against). **Minecraft** 1.21.1 · **NeoForge** 21.1.262.
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v027.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v027.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v027%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v027.zip) · [Full v0.2.7 changelog](https://www.andromedacat.net/ac/changelogs/v027)

@@ -1,19 +1,211 @@
 {
   "schemaVersion": 1,
-  "requiresMpuc": 14,
+  "requiresMpuc": 15,
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "1.0.0",
-      "releasedAt": 1696299585000
+      "id": "0.2.0",
+      "releasedAt": 1792387943000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/andromedas-create",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/andromedas-create",
+          "generic": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create.zip"
+        },
+        "updateType": "minor"
+      }
     },
     {
-      "id": "1.0.1",
-      "releasedAt": 1697681985000
+      "id": "0.2.1",
+      "releasedAt": 1792387943379,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/andromedas-create",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/andromedas-create",
+          "generic": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20021.zip"
+        },
+        "updateType": "minor"
+      }
     },
     {
-      "id": "1.1.0",
-      "releasedAt": 987654321098765
+      "id": "0.2.2",
+      "releasedAt": 1792388005385,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/andromedas-create",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/andromedas-create",
+          "generic": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v022.zip"
+        },
+        "updateType": "minor"
+      }
+    },
+    {
+      "id": "0.2.3",
+      "releasedAt": 1792388225439,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20023.mrpack",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/andromedas-create",
+          "generic": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20023.zip"
+        },
+        "updateType": "minor"
+      }
+    },
+    {
+      "id": "0.2.4",
+      "releasedAt": 1792388241166,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20024.mrpack",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/andromedas-create",
+          "generic": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20024.zip"
+        },
+        "updateType": "minor"
+      }
+    },
+    {
+      "id": "0.2.5",
+      "releasedAt": 1792388259315,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v025.mrpack",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/andromedas-create",
+          "generic": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v025.zip"
+        },
+        "updateType": "minor"
+      }
+    },
+    {
+      "id": "0.2.6",
+      "releasedAt": 1792388278439,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v026.mrpack",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/andromedas-create",
+          "generic": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v026.zip"
+        },
+        "updateType": "minor"
+      }
+    },
+    {
+      "id": "0.2.7",
+      "releasedAt": 1792387842718,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v027.mrpack",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/andromedas-create",
+          "generic": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v027.zip"
+        },
+        "updateType": "minor"
+      }
+    },
+    {
+      "id": "0.2.8",
+      "releasedAt": 1792383127118,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v028.mrpack",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/andromedas-create",
+          "generic": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v028.zip"
+        },
+        "updateType": "minor"
+      }
+    },
+    {
+      "id": "0.2.9",
+      "releasedAt": 1792521914416,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v029.mrpack",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/andromedas-create",
+          "generic": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v029.zip"
+        },
+        "updateType": "minor"
+      }
+    },
+    {
+      "id": "0.2.9-patch1",
+      "releasedAt": 1792524340324,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v029-patch1.mrpack",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/andromedas-create",
+          "generic": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v029-patch1.zip"
+        },
+        "updateType": "minor"
+      }
+    },
+    {
+      "id": "0.3.0",
+      "releasedAt": 1792617859773,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v030.mrpack",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/andromedas-create",
+          "generic": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v030.zip"
+        },
+        "updateType": "major"
+      }
+    },
+    {
+      "id": "0.3.1",
+      "releasedAt": 1792628304493,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v031.mrpack",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/andromedas-create",
+          "generic": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v031.zip"
+        },
+        "updateType": "minor"
+      }
+    },
+    {
+      "id": "0.3.2",
+      "releasedAt": 1792899802419,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v032.mrpack",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/andromedas-create",
+          "generic": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v032.zip"
+        },
+        "updateType": "minor"
+      }
+    },
+    {
+      "id": "0.3.2-patch1",
+      "releasedAt": 1792956563357,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v032-patch1.mrpack",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/andromedas-create",
+          "generic": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v032-patch1.zip"
+        },
+        "updateType": "minor"
+      }
+    },
+    {
+      "id": "0.3.2-patch2",
+      "releasedAt": 1793413745898,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v032-patch2.mrpack",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/andromedas-create",
+          "generic": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v032-patch2.zip"
+        },
+        "updateType": "minor"
+      }
+    },
+    {
+      "id": "0.3.2-patch3",
+      "releasedAt": 1793542882691,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v032-patch3.mrpack",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/andromedas-create",
+          "generic": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v032-patch3.zip"
+        },
+        "updateType": "minor"
+      }
     }
   ]
 }

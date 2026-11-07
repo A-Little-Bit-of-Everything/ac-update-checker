@@ -1,0 +1,40 @@
+# Changelog — Andromeda's Create
+
+## v0.2.1
+
+### "Pots & Pulleys"
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20021.zip)
+
+**Minecraft:** 1.21.1 · **NeoForge:** 21.1.262
+
+**8 new mods** were added and **2 mods** were removed. No mods were updated. This
+update leans into cooking, food processing, and more Create automation.
+
+### Added
+
+- **[Create: Central Kitchen](https://modrinth.com/mod/create-central-kitchen)** `2.6.2b` — connects Create automation with Farmer's Delight cooking.
+- **[Farmer's Delight](https://modrinth.com/mod/farmers-delight)** `1.3.4` — cooking, crops, and hearty food.
+- **[Create Slice & Dice](https://modrinth.com/mod/slice-and-dice)** `4.3.4` — automate Farmer's Delight cutting-board recipes with Create.
+- **[Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry)** `2.5.4b` — automated enchanting and printing with Create.
+- **[Create: Integrated Farming](https://modrinth.com/mod/create-integrated-farming)** `1.4.3` — automated farming blocks and machines.
+- **[Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus)** `1.11.9` — dragon-themed Create content.
+- **[Create: Bells & Whistles](https://modrinth.com/mod/create-bells-and-whistles)** `0.4.7` — decorative blocks and details for Create builds.
+- **[Music Disc Maker](https://modrinth.com/mod/music-disc-maker)** `3.1.0` — craft custom music discs.
+
+### Updated
+
+- None.
+
+### Removed
+
+- **Cubes Without Borders** — removed from the pack.
+- **Supplemental Patches** — removed from the pack.
+
+---
+
+## v0.2.0
+
+Previous release (the version this changelog compares against). **Minecraft** 1.21.1 · **NeoForge** 21.1.262.
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create.zip) · [Full v0.2.0 changelog](https://www.andromedacat.net/ac/changelogs/v020)

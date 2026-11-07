@@ -1,0 +1,81 @@
+# Changelog — Andromeda's Create
+
+## v0.3.0
+
+### "Hearth & Harvest"
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v030.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v030.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v030%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v030.zip)
+
+**Server:** ready-to-run NeoForge server, requires Java 21. **8 GB RAM or higher is recommended** in the launch arguments.
+
+**Minecraft:** 1.21.1 · **NeoForge:** 21.1.262
+
+**30 new mods** were added. No mods were updated or removed. This is a big cozy-update: the full **Let's Do** suite of cooking, farming, and decoration mods lands alongside new building, furniture, and snow systems.
+
+### Added
+
+**Let's Do — food, farming & decoration**
+
+- **[Let's Do: Bakery](https://lets-do.ch/wiki/bakery/)** `2.1.11` — ovens, doughs, and a full bakery workflow.
+- **[Let's Do: Brewery](https://lets-do.ch/wiki/brewery/)** `2.1.13` — brew beers, spirits, and cocktails from your own crops.
+- **[Let's Do: Vinery](https://lets-do.ch/wiki/vinery/)** `1.5.6` — grow grapes and press your own wine.
+- **[Let's Do: Farm & Charm](https://lets-do.ch/wiki/farm-and-charm/)** `1.1.29` — crops, cooking, and farm life, the backbone of the Let's Do family.
+- **[Let's Do: Meadow](https://lets-do.ch/wiki/meadow/)** `1.4.10` — alpine meadows with cows, cheese, and dairy.
+- **[Let's Do: Candlelight](https://lets-do.ch/wiki/candlelight/)** `2.1.15` — a cozy furniture and restaurant set with plated meals.
+- **[Let's Do: Furniture](https://lets-do.ch/wiki/furniture/)** `1.1.10` — a broad decorative furniture collection.
+- **[Let's Do: Camping](https://lets-do.ch/wiki/camping/)** `2.1.6` — tents, campfires, and everything for life on the trail.
+- **[Let's Do: Beachparty](https://lets-do.ch/wiki/beachparty/)** `2.1.5` — seaside decor, drinks, and summer vibes.
+- **[Let's Do: BloomingNature](https://lets-do.ch/wiki/bloomingnature/)** `1.1.12` — lush new plants and natural decoration.
+- **[Let's Do: Wilder Nature](https://lets-do.ch/wiki/wildernature/)** `1.1.8` — more wildlife and natural atmosphere.
+- **[Let's Do: Alpine Whispers](https://lets-do.ch/wiki/alpine-whispers/)** `1.0.4` — mountain-themed blocks and decoration.
+- **[Let's Do: HerbalBrews](https://lets-do.ch/wiki/herbalbrews/)** `1.1.4` — teas and herbal drinks.
+- **[Let's Do: Smoker](https://lets-do.ch/wiki/smoker/)** `1.0.3` — smoke meats and fish for new foods.
+- **[Let's Do: Hearth & Timber](https://lets-do.ch/wiki/hearth-and-timber/)** `1.0.5` — rustic building blocks for cozy homes.
+- **[Let's Do: Lili's Pottery](https://lets-do.ch/wiki/lilis-pottery/)** `1.0.3` — pottery, ceramics, and decorative vessels.
+- **[Let's Do: Lili's Lucky Lures](https://lets-do.ch/wiki/lilis-lucky-lures/)** `1.1.5` — fishing lures and tackle.
+
+**Let's Do — addons & compat**
+
+- **[Let's Do Addon: Corn Expansion](https://modrinth.com/mod/lets-do-addon-corn-expansion)** `1.2.5` — adds corn crops and corn-based foods across the Let's Do mods.
+- **[Let's Do Addon: Apple Wood Rebarked](https://modrinth.com/mod/apple-wood-rebarked)** `1.2.2` — apple-wood building set that fits the Let's Do style.
+- **[Let's Do Addon: Compat](https://modrinth.com/mod/lets-do-addon-compat)** `2.3.1` — cross-compatibility glue between the Let's Do mods and the rest of the pack.
+- **[Let's Do: Create Filter](https://www.curseforge.com/minecraft/mc-mods/lets-do-create-filter)** `0.2.9` — lets Create's logistics filter Let's Do items cleanly.
+
+**Building & furniture**
+
+- **[Effortless Building](https://modrinth.com/mod/effortless-building)** `4.2` — multi-block placement, mirroring, and build modes for fast construction.
+- **[\[Furniture\] Create/Sable Compat](https://mcreator.net)** `5.0` — seats and furniture compatibility between Create and Sable Pallets.
+- **[Sable Pallets](https://mcreator.net)** `1.0.2` — pallet-style decorative blocks.
+- **[Underlay](https://modrinth.com/mod/underlay)** `1.0.5` — place carpet-style underlays beneath blocks for finer detailing.
+
+**World & weather**
+
+- **[Biolith](https://modrinth.com/mod/biolith)** `3.0.14` — a biome-placement framework that lets worldgen mods coexist.
+- **[Snow! Real Magic!](https://www.curseforge.com/minecraft/mc-mods/snowrealmagic)** `12.2.3` — snow that stacks, melts, and behaves realistically.
+- **[Snow Under Trees](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees)** `1.5.1` — snow that properly forms beneath tree canopies.
+
+**Utility & libraries**
+
+- **[Polymorph](https://modrinth.com/mod/polymorph)** `1.2.0` — resolves conflicting recipes by letting you pick which output you want. <em style="font-size:smaller;">(added in v0.2.9 Patch 1)</em>
+- **[Kiwi Library](https://www.curseforge.com/minecraft/mc-mods/kiwi)** `15.8.7` — core library used by Snow! Real Magic! and other mods.
+
+### Updated
+
+- None.
+
+### Removed
+
+- None.
+
+> **Note:** A few mods ship with this pack **disabled by default** (`.disabled`) — enable them manually in your `mods` folder if you want them:
+> - *Distant Horizons* `3.3.3` — massively increased render distance.
+> - *Create: Smog* `0.4.1` and *Pollution of the Realms* `9.1.12.0` — the pollution layer; disabled by default so pollution is opt-in.
+> - *Ambush* `1.1.6`.
+
+---
+
+## v0.2.9
+
+Previous release (the version this changelog compares against). **Minecraft** 1.21.1 · **NeoForge** 21.1.262.
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v029.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v029.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v029%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v029.zip) · [Full v0.2.9 changelog](https://www.andromedacat.net/ac/changelogs/v029)

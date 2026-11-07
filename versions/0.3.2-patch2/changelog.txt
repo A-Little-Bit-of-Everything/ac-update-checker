@@ -1,0 +1,38 @@
+# Patch notes - Andromeda's Create v0.3.2 — Patch 2
+
+### "Rails & Rollin' Stock" - Patch 2
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch2.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch2.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch2%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v032-patch2.zip)
+
+**Server:** ready-to-run NeoForge server, requires Java 21. **8 GB RAM or higher is recommended** in the launch arguments.
+
+**Minecraft:** 1.21.1 · **NeoForge:** 21.1.262
+
+A patch on top of **v0.3.2 Patch 1**. **4 mods** were added, **1 mod** was disabled on the server, and the **Sparkles** resource pack is now pre-bundled and active by default.
+
+### Resource Pack
+
+- **[Sparkles (Stardust Labs Fork)](https://www.andromedacat.net/sparkles/)** - now pre-bundled directly in the client pack's `resourcepacks/` directory and enabled out of the box, ensuring complete texture and localization coverage for Stardust Labs mods (Terralith, Incendium, Nullscape).
+
+### Added
+
+- **[Entity Model Features (EMF)](https://modrinth.com/mod/entity-model-features)** `3.3.12` - custom entity models (CEM) support for OptiFine/resource pack models.
+- **[Entity Sound Features (ESF)](https://modrinth.com/mod/entity-sound-features)** `0.8.2` - custom entity sound features support.
+- **[Entity Texture Features (ETF)](https://modrinth.com/mod/entity-texture-features)** `7.2.6` - custom entity textures, emissive textures, and blinking animations.
+- **[PacketFixer](https://modrinth.com/mod/packetfixer)** `3.3.1` - fixes network packet limits and large packet disconnects on modern Minecraft.
+
+### Server Changes
+
+- **Time Freeze** - disabled on the server (`timefreeze-1.0.0.jar.disabled`).
+
+### Removed
+
+- None.
+
+---
+
+## v0.3.2 Patch 1
+
+Previous patch this release applies on top of. **Minecraft** 1.21.1 · **NeoForge** 21.1.262.
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch1.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch1.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch1%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v032-patch1.zip) · [Full Patch 1 changelog](https://www.andromedacat.net/ac/changelogs/v032/patch1)

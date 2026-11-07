@@ -1,0 +1,30 @@
+# Changelog — Andromeda's Create
+
+## v0.2.6
+
+### "Tune-Up"
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v026.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v026.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v026%20CF.zip)
+
+**Minecraft:** 1.21.1 · **NeoForge:** 21.1.262
+
+**1 mod** was updated. No mods were added or removed.
+
+### Added
+
+- None.
+
+### Updated
+
+- **Create: Airwaves** [`0.1.0`](https://www.andromedacat.net/cdn/airwaves-1.21.1-0.1.0.jar) → [`0.1.1`](https://www.andromedacat.net/cdn/airwaves-1.21.1-0.1.1-atm10.jar) — now installed as a managed dependency rather than a bundled jar.
+
+### Removed
+
+- None.
+
+---
+
+## v0.2.5
+Previous release (the version this changelog compares against). **Minecraft** 1.21.1 · **NeoForge** 21.1.262.
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v025.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v025.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v025%20CF.zip) · [Full v0.2.5 changelog](https://www.andromedacat.net/ac/changelogs/v025)

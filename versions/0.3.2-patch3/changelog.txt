@@ -1,0 +1,36 @@
+# Patch notes - Andromeda's Create v0.3.2 — Patch 3
+
+### "Rails & Rollin' Stock" - Patch 3
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch3.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch3.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch3%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v032-patch3.zip)
+
+**Server:** ready-to-run NeoForge server, requires Java 21. **8 GB RAM or higher is recommended** in the launch arguments.
+
+**Minecraft:** 1.21.1 · **NeoForge:** 21.1.262
+
+A patch on top of **v0.3.2 Patch 2**. **2 mods** were added to expand machine output flexibility with dedicated keybinding control.
+
+### Added
+
+- **[Create: Configurable Machine Outputs](https://www.curseforge.com/minecraft/mc-mods/create-configurable-machine-outputs)** `1.3.0` - provides configuration to allow Create machines such as Crushing Wheels to output to inventories above them and customize processing behaviors.
+- **[Create Machine Outputs Custom Keybind](https://www.andromedacat.net/create-mco-remap/)** `0.1.0` - custom companion mod developed for Andromeda's Create that introduces a dedicated rebindable keybinding for the machine configuration screen (client-side).
+
+### Config Changes
+
+- Added `config/create_machine_outputs_custom_keybind-client.toml` client configuration.
+
+### Server Changes
+
+- **Create Machine Outputs Custom Keybind** is a client-side mod and is not included in the server pack.
+
+### Removed
+
+- None.
+
+---
+
+## v0.3.2 Patch 2
+
+Previous patch this release applies on top of. **Minecraft** 1.21.1 · **NeoForge** 21.1.262.
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch2.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch2.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch2%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v032-patch2.zip) · [Full Patch 2 changelog](https://www.andromedacat.net/ac/changelogs/v032/patch2)

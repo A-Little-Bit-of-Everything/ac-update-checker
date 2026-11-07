@@ -1,0 +1,34 @@
+# Changelog — Andromeda's Create
+
+## v0.2.3
+
+### "Rooted"
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v023.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20023.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20023%20CF.zip)
+
+**Minecraft:** 1.21.1 · **NeoForge:** 21.1.262
+
+**1 new mod** was added and **3 mods** were removed. This update swaps the
+tree-felling setup and trims a beta library.
+
+### Added
+
+- **[Tree Physics](https://modrinth.com/mod/tree-physics)** `2.4` — trees fall over realistically when cut.
+
+### Updated
+
+- None.
+
+### Removed
+
+- **HT's TreeChop** — replaced by Tree Physics.
+- **Sable Tree Chopper** — replaced by Tree Physics.
+- **owo-lib** — no longer required by the pack in this build.
+
+---
+
+## v0.2.2
+
+Previous release (the version this changelog compares against). **Minecraft** 1.21.1 · **NeoForge** 21.1.262.
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v022.zip) · [Full v0.2.2 changelog](https://www.andromedacat.net/ac/changelogs/v022)

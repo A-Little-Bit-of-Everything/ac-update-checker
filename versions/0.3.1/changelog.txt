@@ -1,0 +1,57 @@
+# Changelog — Andromeda's Create
+
+## v0.3.1
+
+### "Chipped & Chiseled"
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v031.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v031.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v031%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v031.zip)
+
+**Server:** ready-to-run NeoForge server, requires Java 21. **8 GB RAM or higher is recommended** in the launch arguments.
+
+**Minecraft:** 1.21.1 · **NeoForge:** 21.1.262
+
+**12 new mods** were added. No mods were updated or removed. This drop is all about **decorative block variety** — the **Chipped** mod and the full Rechiseled compatibility ecosystem bring thousands of chisel-able block variants, backed by a few new libraries and utilities.
+
+### Added
+
+**Decoration & block variants**
+
+- **[Chipped](https://modrinth.com/mod/chipped)** `4.0.2` — over 11,000 decorative block variants, chiseled from vanilla blocks at a workbench.
+- **[Chipped Express](https://modrinth.com/mod/chipped-express)** `1.3.2` — lets you craft any Chipped variant directly in the stonecutter.
+- **[Rechiseled: Chipped](https://modrinth.com/mod/rechiseled-chipped)** `1.3` — craft all of Chipped's variants with Rechiseled's chisel, as one all-in-one tool.
+- **[Reintegrated: Chipped](https://modrinth.com/mod/reintegrated-chipped)** `1.0.0` — weaves Chipped's blocks into vanilla biomes and structures.
+- **[UnChipped](https://modrinth.com/datapack/unchipped)** `1.21-1.2` — lets you craft Chipped variants back into their base blocks.
+- **[Create Aeronautics: Rechiseled Compatibility](https://modrinth.com/mod/create-aeronautics-rechiseled-compatibility)** `1.2.2` — gives Rechiseled blocks proper weights for Create Aeronautics.
+
+**Utility**
+
+- **[Anvil Repairing](https://www.curseforge.com/minecraft/mc-mods/anvil-repairing)** `21.1.1` — repair chipped and damaged anvils with an iron ingot.
+- **[Recipes For Create](https://braydog2010apps.pages.dev/mods/rfc)** `1.2.1` — adds extra Create-themed crafting recipes.
+
+**Libraries & frameworks** *(dependencies for the above)*
+
+- **[Athena](https://modrinth.com/mod/athena-ctm)** `4.0.6` — a connected-textures framework used by Chipped.
+- **[Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf)** `21.1.81` — shared code library by Darkhax.
+- **[Prickle](https://www.curseforge.com/minecraft/mc-mods/prickle)** `21.1.11` — configuration library by Darkhax.
+- **[Resourceful Lib](https://modrinth.com/mod/resourceful-lib)** `3.0.12` — core library from Team Resourceful.
+
+### Updated
+
+- None.
+
+### Removed
+
+- None.
+
+> **Note:** A few mods ship with this pack **disabled by default** (`.disabled`) — enable them manually in your `mods` folder if you want them:
+> - *Distant Horizons* `3.3.3` — massively increased render distance.
+> - *Create: Smog* `0.4.1` and *Pollution of the Realms* `9.1.12.0` — the pollution layer; disabled by default so pollution is opt-in.
+> - *Ambush* `1.1.6`.
+
+---
+
+## v0.3.0
+
+Previous release (the version this changelog compares against). **Minecraft** 1.21.1 · **NeoForge** 21.1.262.
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v030.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v030.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v030%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v030.zip) · [Full v0.3.0 changelog](https://www.andromedacat.net/ac/changelogs/v030)

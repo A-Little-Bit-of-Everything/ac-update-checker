@@ -1,0 +1,40 @@
+# Patch notes — Andromeda's Create v0.3.2 · Patch 1
+
+### "Rails & Rollin' Stock" — Patch 1
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch1.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch1.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch1%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v032-patch1.zip)
+
+**Server:** ready-to-run NeoForge server, requires Java 21. **8 GB RAM or higher is recommended** in the launch arguments.
+
+**Minecraft:** 1.21.1 · **NeoForge:** 21.1.262
+
+A small patch on top of **v0.3.2 "Rails & Rollin' Stock"**. **6 mods** were updated. No mods were added or removed. This is a drop-in update — install over v0.3.2 (or download a fresh v0.3.2 Patch 1 pack).
+
+Updated because a tester found a bug with Sophisticated Backpacks where if you had Pump Upgrades installed, the server or client singleplayer server would crash. Luckily Sophisticated Backpacks and Sophisticated Core had an update.
+
+<sub>Thank you TruBlueFox2</sub>
+
+### Added
+
+- None.
+
+### Updated
+
+- **[Advanced Chimneys](https://modrinth.com/mod/advanced-chimneys)** `11.1.13.0` → `11.1.14.0`
+- **[Create: Radars](https://modrinth.com/mod/create-radars)** `0.4.9.4` → `5.0`
+- **[Just Enough Items (JEI)](https://modrinth.com/mod/jei)** `19.69.0.457` → `19.70.0.460`
+- **[MezzConfig](https://modrinth.com/mod/mezzconfig)** `0.6.8` → `0.6.9`
+- **[Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks)** `3.26.14.2222` → `3.26.15.2227`
+- **[Sophisticated Core](https://modrinth.com/mod/sophisticated-core)** `1.5.17.2426` → `1.5.18.2431`
+
+### Removed
+
+- None.
+
+---
+
+## v0.3.2
+
+Base release this patch applies on top of. **Minecraft** 1.21.1 · **NeoForge** 21.1.262.
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v032.zip) · [Full v0.3.2 changelog](https://www.andromedacat.net/ac/changelogs/v032)

@@ -1,0 +1,31 @@
+# Patch notes — Andromeda's Create v0.2.9 · Patch 1
+
+### "Factories & Frontiers" — Patch 1
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v029-patch1.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v029-patch1.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v029-patch1%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v029-patch1.zip)
+
+**Server:** ready-to-run NeoForge server, requires Java 21. **8 GB RAM or higher is recommended** in the launch arguments.
+
+**Minecraft:** 1.21.1 · **NeoForge:** 21.1.262
+
+A small patch on top of **v0.2.9 "Factories & Frontiers"**. **1 mod** was added. No mods were updated or removed. This is a drop-in update — install over v0.2.9 (or download a fresh v0.2.9 Patch 1 pack).
+
+### Added
+
+- **[Polymorph](https://modrinth.com/mod/polymorph)** `1.2.0+1.21.1` — automatically resolves recipe conflicts, letting you pick which recipe to craft when multiple mods add overlapping recipes. Smooths out crafting across the pack's large mod list.
+
+### Updated
+
+- None.
+
+### Removed
+
+- None.
+
+---
+
+## v0.2.9
+
+Base release this patch applies on top of. **Minecraft** 1.21.1 · **NeoForge** 21.1.262.
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v029.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v029.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v029%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v029.zip) · [Full v0.2.9 changelog](https://www.andromedacat.net/ac/changelogs/v029)
