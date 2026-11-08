@@ -10,7 +10,7 @@
 
 **Minecraft:** 1.21.1 · **NeoForge:** 21.1.265
 
-**39 new mods** were added, **24 were updated** (4 removed), and a new custom global resource pack (**Not a Glitch Studios Assets & ReSplash!**) is now pre-bundled alongside **Sparkles** and active by default. This major drop focuses on **world exploration and flight** — introducing **Biomes O' Plenty**, **Arts & Crafts**, **Icarus** wings, **StreamsReflowing**, and automated **RoadArchitect** transit networks alongside a customized **FancyMenu** interface and Create add-ons.
+**39 new mods** were added, **24 were updated** (4 removed), and a new custom global resource pack (**Not a Glitch Studios Assets & ReSplash!**) is now pre-bundled alongside **Sparkles** and active by default. This major drop focuses on **world exploration and flight** — introducing **Biomes O' Plenty**, **Arts & Crafts**, **Icarus** wings, **StreamsReflowing**, and **RoadArchitect** village road networks alongside a customized **FancyMenu** interface and Create add-ons.
 
 ### Added — World & Biomes
 - **[Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)** `21.1.0.14` — expansive world generation with dozens of new biomes, flora, and building materials.
@@ -18,6 +18,8 @@
 - **[Arts & Crafts](https://modrinth.com/mod/artsandcrafts)** `1.5.4` — chalk, plaster, terracotta shingles, and artisan craft decorations.
 - **[Arts & Crafts x Biomes O' Plenty](https://modrinth.com/mod/arts-and-crafts-x-biomes-o-plenty)** `1.0.2` — compatibility integration between Arts & Crafts and Biomes O' Plenty.
 - **[StreamsReflowing](https://modrinth.com/mod/streams-reflowing)** `2.17.1` — realistic flowing river generation with dynamic currents and scenic riverbanks.
+- **[RoadArchitect](https://modrinth.com/mod/roadarchitect)** `1.6.6` — worldgen road and path networks automatically connecting villages and structures.
+- **[The Roads More Travelled](https://modrinth.com/mod/the-roads-more-travelled)** `0.5.1-1.21.1-neoforge` — natural terrain erosion that wears down grass into paths and trails as players walk over them.
 
 ### Added — Flight & Exploration
 - **[Icarus](https://modrinth.com/mod/icarus)** `4.8.1` — wearable mechanical and biological wings for graceful soaring and gliding.
@@ -25,11 +27,9 @@
 - **[Caelus API](https://modrinth.com/mod/caelus)** `7.0.1+1.21.1` — core flight handling API powering Icarus.
 - **[Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)** `3.7.3` — smooth 6DoF acrobatic roll and pitch flight controls.
 
-### Added — Logistics, Contraptions & Roads
+### Added — Create, Logistics & Contraptions
 - **[Create: Transit Tickets](https://modrinth.com/mod/create-transit-tickets)** `1.0.1-c6` — ticketing gates, station conductor checks, and rail transit passes.
 - **[Create: Trading Floor](https://modrinth.com/mod/create-trading-floor)** `3.0.16` — automated trading machines and villager commerce contraptions.
-- **[RoadArchitect](https://modrinth.com/mod/roadarchitect)** `1.6.6` — automated highway and road networks linking world structures and settlements.
-- **[The Roads More Travelled](https://modrinth.com/mod/the-roads-more-travelled)** `0.5.1-1.21.1-neoforge` — lanterns, pavement, and path building infrastructure.
 - **[Rolling Down in the Deep](https://modrinth.com/mod/rolling-down-in-the-deep)** `0.2.1+1.21.1-neoforge` — momentum mechanics and vehicle physics on steep slopes.
 
 ### Added — Quark & Content Additions
