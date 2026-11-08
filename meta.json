@@ -206,6 +206,18 @@
         },
         "updateType": "minor"
       }
+    },
+    {
+      "id": "0.3.3",
+      "releasedAt": 1794118117000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v033.mrpack",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/andromedas-create",
+          "generic": "https://www.andromedacat.net/cdn/Andromeda%27s%20Create%20v033.zip"
+        },
+        "updateType": "minor"
+      }
     }
   ]
 }

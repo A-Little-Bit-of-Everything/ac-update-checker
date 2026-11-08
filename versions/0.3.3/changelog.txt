@@ -1,0 +1,107 @@
+# Changelog — Andromeda's Create
+
+## v0.3.3
+
+### "Wings & Wilds"
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v033.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v033.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v033%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v033.zip)
+
+**Server:** ready-to-run NeoForge server, requires Java 21. **8 GB RAM or higher is recommended** in the launch arguments.
+
+**Minecraft:** 1.21.1 · **NeoForge:** 21.1.265
+
+**39 new mods** were added and **24 were updated** (4 removed). This major drop focuses on **world exploration and flight** — introducing **Biomes O' Plenty**, **Arts & Crafts**, **Icarus** wings, **StreamsReflowing**, and automated **RoadArchitect** transit networks alongside a customized **FancyMenu** interface and Create add-ons.
+
+### Added — World & Biomes
+- **[Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)** `21.1.0.14` — expansive world generation with dozens of new biomes, flora, and building materials.
+- **[GlitchCore](https://modrinth.com/mod/glitchcore)** `2.1.0.2` — core library required by Biomes O' Plenty.
+- **[Arts & Crafts](https://modrinth.com/mod/artsandcrafts)** `1.5.4` — chalk, plaster, terracotta shingles, and artisan craft decorations.
+- **[Arts & Crafts x Biomes O' Plenty](https://modrinth.com/mod/arts-and-crafts-x-biomes-o-plenty)** `1.0.2` — compatibility integration between Arts & Crafts and Biomes O' Plenty.
+- **[StreamsReflowing](https://modrinth.com/mod/streams-reflowing)** `2.17.1` — realistic flowing river generation with dynamic currents and scenic riverbanks.
+
+### Added — Flight & Exploration
+- **[Icarus](https://modrinth.com/mod/icarus)** `4.8.1` — wearable mechanical and biological wings for graceful soaring and gliding.
+- **[Icarus: Re-Winged](https://modrinth.com/mod/icarus-rewinged)** `1.1.3` — wing stats rebalancing and customization add-on for Icarus.
+- **[Caelus API](https://modrinth.com/mod/caelus)** `7.0.1+1.21.1` — core flight handling API powering Icarus.
+- **[Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)** `3.7.3` — smooth 6DoF acrobatic roll and pitch flight controls.
+
+### Added — Logistics, Contraptions & Roads
+- **[Create: Transit Tickets](https://modrinth.com/mod/create-transit-tickets)** `1.0.1-c6` — ticketing gates, station conductor checks, and rail transit passes.
+- **[Create: Trading Floor](https://modrinth.com/mod/create-trading-floor)** `3.0.16` — automated trading machines and villager commerce contraptions.
+- **[RoadArchitect](https://modrinth.com/mod/roadarchitect)** `1.6.6` — automated highway and road networks linking world structures and settlements.
+- **[The Roads More Travelled](https://modrinth.com/mod/the-roads-more-travelled)** `0.5.1-1.21.1-neoforge` — lanterns, pavement, and path building infrastructure.
+- **[Rolling Down in the Deep](https://modrinth.com/mod/rolling-down-in-the-deep)** `0.2.1+1.21.1-neoforge` — momentum mechanics and vehicle physics on steep slopes.
+
+### Added — Quark & Content Additions
+- **[Quark Oddities](https://modrinth.com/mod/quark-oddities)** `1.21.1` — matrix enchanting, pipes, and modular mechanics expanding Quark.
+- **[DyeDepotCompat](https://www.andromedacat.net/)** `0.2.1` — comprehensive compatibility layer for Dye Depot colors.
+
+### Added — Client, UI & Immersion
+- **[FancyMenu](https://modrinth.com/mod/fancymenu)** `3.9.14` — custom branded title screen, panoramas, and customized menu system.
+- **[Drippy Loading Screen](https://modrinth.com/mod/drippy-loading-screen)** `3.1.5` — customized modpack startup and loading screens.
+- **[Konkrete](https://modrinth.com/mod/konkrete)** `1.9.9` — user interface library powering FancyMenu.
+- **[Melody](https://modrinth.com/mod/melody)** `1.0.10` — dynamic audio engine library for menu screens.
+- **[Better Advancements](https://modrinth.com/mod/better-advancements)** `0.4.3.21` — full-screen advancement screen with zoom and search.
+- **[Better Statistics Screen](https://modrinth.com/mod/better-stats)** `3.13.9+neoforge-1.21.1-rev.1` — categorized, modern in-game statistics interface.
+- **[TCD Commons API](https://modrinth.com/mod/tcdcommons)** `3.12.8+neoforge-1.21.1-rev.1` — helper library for client interfaces.
+- **[Keybind Finder](https://www.curseforge.com/minecraft/mc-mods/keybind-finder)** `1.0.0` — search and category filter for game controls.
+- **[Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)** `2.26.1` — smooth inventory mouse drag and scrolling actions.
+- **[AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)** `3.0.9+mc1.21` — hunger saturation and food exhaustion HUD indicators.
+- **[Enhanced Equipment Display](https://www.curseforge.com/minecraft/mc-mods/enhanced-equipment-display)** `1.1` — on-screen durability and armor HUD widget.
+- **[Cinematic Respawn](https://modrinth.com/mod/cinematic-respawn)** `1.4.3` — dynamic camera pans and smooth respawn transitions.
+- **[Drip Sounds](https://modrinth.com/mod/dripsounds)** `0.6.3+1.21.8-NeoForge` — atmospheric droplet sounds near cave moisture and ceilings.
+- **[Let it Walk!](https://www.curseforge.com/minecraft/mc-mods/let-it-walk)** `0.1.4` — smooth movement physics and footstep speed pacing.
+- **[Seamless Sleep](https://modrinth.com/mod/seamless-sleep)** `2.5.3` — seamless day-night time lapse animation when resting in beds.
+
+### Added — System & Libraries
+- **[Modpack Update Checker](https://modrinth.com/mod/modpack-update-checker)** `0.15.6` — in-game update notification toasts and integrated changelog screens.
+- **[Cloth Config v15 API](https://modrinth.com/mod/cloth-config)** `15.0.140` — configuration screen API.
+- **[Common Networking](https://modrinth.com/mod/common-network)** `1.0.21-1.21.1` — packet and networking abstraction.
+- **[Global Packs](https://modrinth.com/mod/globalpacks)** `21.0.6` — loads datapacks and resource packs globally across worlds.
+- **[JinxedLib](https://modrinth.com/mod/jinxedlib)** `1.0.4` — core library for transit mechanics.
+- **[Resourcefulconfig](https://modrinth.com/mod/resourceful-config)** `3.0.11` — configuration backend.
+- **[Sparkweave Engine](https://modrinth.com/mod/sparkweave)** `0.510.0` — unified graphics and lighting utility library.
+- **[TickTweak](https://modrinth.com/mod/ticktweak)** `1.0.0` — tick rate optimization and scheduler tuning. *(ships disabled by default)*
+
+### Updated
+- **[Alex's Mobs Continued](https://modrinth.com/mod/alexs-mobs-continued)** `2.2.4` → `2.3.0`
+- **[Create Big Cannons: Going Ballistic](https://modrinth.com/mod/going-ballistic)** `0.3.1` → `0.3.2`
+- **[Create Cablecars](https://modrinth.com/mod/create-cablecars)** `1.0.4` → `1.1.0-demo`
+- **[Create Connected: Encased](https://modrinth.com/mod/create-connected-encased)** `1.2.0` → `1.2.1`
+- **[Create Deep Seas](https://modrinth.com/mod/create-deep-seas)** `3.4.5` → `3.4.7`
+- **[Create Encased](https://modrinth.com/mod/create-encased)** `1.10.0` → `1.10.0-fix1`
+- **[Create: Copycats+](https://modrinth.com/mod/copycats)** `3.0.9+mc.1.21.1-neoforge` → `3.0.11+mc.1.21.1-neoforge`
+- **[Create: The Factory Must Grow](https://modrinth.com/mod/create-industry)** `1.3.2a-community` → `1.3.3a-community`
+- **[Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)** `7.2.6` → `7.2.7`
+- **[Eunomia](https://modrinth.com/mod/eunomia)** `0.3.14` → `0.3.15`
+- **[Just Enough Items](https://modrinth.com/mod/jei)** `19.70.0.460` → `19.70.0.469`
+- **[Let's Do Addon: Corn Expansion](https://modrinth.com/mod/corn-expansion)** `1.2.5` → `1.3.0`
+- **[Moonlight Lib](https://modrinth.com/mod/moonlight)** `1.21.1-3.7.2` → `1.21.1-3.8.2`
+- **[Music Disc Maker](https://modrinth.com/mod/music-disc-maker)** `3.1.2` → `3.1.3`
+- **[OctoLib](https://modrinth.com/mod/octolib)** `0.6.2` → `0.6.3`
+- **[Quark](https://modrinth.com/mod/quark)** `4.1-487` → `4.1-488`
+- **[Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat)** `1.21.1-2.6.26` → `1.21.1-2.6.27`
+- **[Snow! Real Magic!](https://modrinth.com/mod/snow-real-magic)** `12.2.3` → `12.2.5`
+- **[Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks)** `3.26.15` → `3.26.20`
+- **[Sophisticated Core](https://modrinth.com/mod/sophisticated-core)** `1.5.18` → `1.5.31`
+- **[Sophisticated Storage](https://modrinth.com/mod/sophisticated-storage)** `1.6.9` → `1.6.16`
+- **[Structures](https://modrinth.com/mod/structures)** `4.4` → `4.5`
+- **[SuperMartijn642's Core Lib](https://modrinth.com/mod/supermartijn642s-core-lib)** `1.1.25` → `1.1.26a`
+
+### Removed
+- **Armor Hider**
+- **Euphoria Patcher**
+- **Keybind Search** (replaced by Keybind Finder)
+- **MDMDyeDepotCompat** (replaced by DyeDepotCompat)
+
+> **Note:** The following mods ship **disabled by default** (`.disabled` in `mods/`):
+> - `AdPother` (Pollution of the Realms) and `smog` (Create: Smog) — optional pollution mechanics.
+> - `ambush` — opt-in ambush events.
+> - `ticktweak` — optional scheduler optimizations.
+> Enable them in the launcher or rename their `.disabled` extension in `mods/`.
+
+---
+
+## v0.3.2 Patch 3
+Previous release. **Minecraft** 1.21.1 · **NeoForge** 21.1.262.
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch3.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch3.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch3%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v032-patch3.zip) · [Full v0.3.2 Patch 3 changelog](https://www.andromedacat.net/ac/changelogs/v032/patch3)
