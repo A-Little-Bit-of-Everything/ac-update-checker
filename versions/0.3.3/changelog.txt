@@ -95,6 +95,7 @@
 - **MDMDyeDepotCompat** (replaced by DyeDepotCompat)
 
 > **Note:** The following mods ship **disabled by default** (`.disabled` in `mods/`):
+> - `Distant Horizons` — render distance / LODs.
 > - `AdPother` (Pollution of the Realms) and `smog` (Create: Smog) — optional pollution mechanics.
 > - `ambush` — opt-in ambush events.
 > - `ticktweak` — optional scheduler optimizations.
