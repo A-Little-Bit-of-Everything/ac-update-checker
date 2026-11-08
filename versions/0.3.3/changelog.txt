@@ -103,5 +103,5 @@
 ---
 
 ## v0.3.2 Patch 3
-Previous release. **Minecraft** 1.21.1 · **NeoForge** 21.1.262.
+Previous release (the version this changelog compares against). **Minecraft** 1.21.1 · **NeoForge** 21.1.262.
 **Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch3.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch3.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v032-patch3%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v032-patch3.zip) · [Full v0.3.2 Patch 3 changelog](https://www.andromedacat.net/ac/changelogs/v032/patch3)
