@@ -12,10 +12,6 @@
 
 **39 new mods** were added, **24 were updated** (4 removed), and a new custom global resource pack (**Not a Glitch Studios Assets & ReSplash!**) is now pre-bundled alongside **Sparkles** and active by default. This major drop focuses on **world exploration and flight** — introducing **Biomes O' Plenty**, **Arts & Crafts**, **Icarus** wings, **StreamsReflowing**, and automated **RoadArchitect** transit networks alongside a customized **FancyMenu** interface and Create add-ons.
 
-### Resource Packs
-- **[Not a Glitch Studios Assets & ReSplash!](https://www.andromedacat.net/resplash/)** &mdash; new custom global resource pack added alongside **Sparkles**, pre-bundled directly via Open Loader (`global_packs/required_resources/`) and active by default. Features over 400 custom splash texts, UI elements credited to **[Vanilla Tweaks](https://vanillatweaks.net/)**, and custom title assets tailored for Andromeda's Create, built upon a customized fork of unilock's **[ReSplash!](https://modrinth.com/resourcepack/resplash)**.
-- **[Sparkles (Stardust Labs Fork)](https://www.andromedacat.net/sparkles/)** &mdash; pre-bundled in `global_packs/required_resources/` and active by default, ensuring complete texture and localization coverage for Stardust Labs mods (Terralith, Incendium, Nullscape).
-
 ### Added — World & Biomes
 - **[Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)** `21.1.0.14` — expansive world generation with dozens of new biomes, flora, and building materials.
 - **[GlitchCore](https://modrinth.com/mod/glitchcore)** `2.1.0.2` — core library required by Biomes O' Plenty.
@@ -104,6 +100,10 @@
 > - `ambush` — opt-in ambush events.
 > - `ticktweak` — optional scheduler optimizations.
 > Enable them in the launcher or rename their `.disabled` extension in `mods/`.
+
+### Resource Packs
+- **[Not a Glitch Studios Assets & ReSplash!](https://www.andromedacat.net/resplash/)** &mdash; new custom global resource pack added alongside **Sparkles**, pre-bundled directly via Open Loader (`global_packs/required_resources/`) and active by default. Features over 400 custom splash texts, UI elements credited to **[Vanilla Tweaks](https://vanillatweaks.net/)**, and custom title assets tailored for Andromeda's Create, built upon a customized fork of unilock's **[ReSplash!](https://modrinth.com/resourcepack/resplash)**.
+- **[Sparkles (Stardust Labs Fork)](https://www.andromedacat.net/sparkles/)** &mdash; pre-bundled in `global_packs/required_resources/` and active by default, ensuring complete texture and localization coverage for Stardust Labs mods (Terralith, Incendium, Nullscape).
 
 ---
 

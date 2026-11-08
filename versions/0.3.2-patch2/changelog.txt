@@ -10,10 +10,6 @@
 
 A patch on top of **v0.3.2 Patch 1**. **4 mods** were added, **1 mod** was disabled on the server, and the **Sparkles** resource pack is now pre-bundled and active by default.
 
-### Resource Pack
-
-- **[Sparkles (Stardust Labs Fork)](https://www.andromedacat.net/sparkles/)** - now pre-bundled directly in the client pack's `resourcepacks/` directory and enabled out of the box, ensuring complete texture and localization coverage for Stardust Labs mods (Terralith, Incendium, Nullscape).
-
 ### Added
 
 - **[Entity Model Features (EMF)](https://modrinth.com/mod/entity-model-features)** `3.3.12` - custom entity models (CEM) support for OptiFine/resource pack models.
@@ -28,6 +24,10 @@ A patch on top of **v0.3.2 Patch 1**. **4 mods** were added, **1 mod** was disab
 ### Removed
 
 - None.
+
+### Resource Pack
+
+- **[Sparkles (Stardust Labs Fork)](https://www.andromedacat.net/sparkles/)** - now pre-bundled directly in the client pack's `resourcepacks/` directory and enabled out of the box, ensuring complete texture and localization coverage for Stardust Labs mods (Terralith, Incendium, Nullscape).
 
 ---
 
