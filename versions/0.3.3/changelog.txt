@@ -10,7 +10,11 @@
 
 **Minecraft:** 1.21.1 · **NeoForge:** 21.1.265
 
-**39 new mods** were added and **24 were updated** (4 removed). This major drop focuses on **world exploration and flight** — introducing **Biomes O' Plenty**, **Arts & Crafts**, **Icarus** wings, **StreamsReflowing**, and automated **RoadArchitect** transit networks alongside a customized **FancyMenu** interface and Create add-ons.
+**39 new mods** were added, **24 were updated** (4 removed), and a new custom global resource pack (**Not a Glitch Studios Assets & ReSplash!**) is now pre-bundled alongside **Sparkles** and active by default. This major drop focuses on **world exploration and flight** — introducing **Biomes O' Plenty**, **Arts & Crafts**, **Icarus** wings, **StreamsReflowing**, and automated **RoadArchitect** transit networks alongside a customized **FancyMenu** interface and Create add-ons.
+
+### Resource Packs
+- **[Not a Glitch Studios Assets & ReSplash!](https://www.andromedacat.net/resplash/)** &mdash; new custom global resource pack added alongside **Sparkles**, pre-bundled directly via Open Loader (`global_packs/required_resources/`) and active by default. Features over 400 custom splash texts, hand-tuned GUI elements, and UI separators tailored for Andromeda's Create, built upon a customized fork of unilock's **[ReSplash!](https://modrinth.com/resourcepack/resplash)**.
+- **[Sparkles (Stardust Labs Fork)](https://www.andromedacat.net/sparkles/)** &mdash; pre-bundled in `global_packs/required_resources/` and active by default, ensuring complete texture and localization coverage for Stardust Labs mods (Terralith, Incendium, Nullscape).
 
 ### Added — World & Biomes
 - **[Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)** `21.1.0.14` — expansive world generation with dozens of new biomes, flora, and building materials.
