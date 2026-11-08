@@ -34,7 +34,7 @@
 
 ### Added — Quark & Content Additions
 - **[Quark Oddities](https://modrinth.com/mod/quark-oddities)** `1.21.1` — matrix enchanting, pipes, and modular mechanics expanding Quark.
-- **[DyeDepotCompat](https://www.andromedacat.net/)** `0.2.1` — comprehensive compatibility layer for Dye Depot colors.
+- **[DyeDepotCompat](https://www.andromedacat.net/dyedepotcompat/)** `0.2.1` — comprehensive compatibility layer for Dye Depot colors.
 
 ### Added — Client, UI & Immersion
 - **[FancyMenu](https://modrinth.com/mod/fancymenu)** `3.9.14` — custom branded title screen, panoramas, and customized menu system.
