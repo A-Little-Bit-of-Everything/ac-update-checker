@@ -101,6 +101,9 @@
 > - `ticktweak` — optional scheduler optimizations.
 > Enable them in the launcher or rename their `.disabled` extension in `mods/`.
 
+### Server Changes
+- **[Discord Integration](https://www.andromedacat.net/discord-integration)** `4.0.4` &mdash; added to the dedicated server pack for real-time two-way chat synchronization, bot presence, and server webhook logging.
+
 ### Resource Packs
 - **[Not a Glitch Studios Assets & ReSplash!](https://www.andromedacat.net/resplash/)** &mdash; new custom global resource pack added alongside **Sparkles**, pre-bundled directly via Open Loader (`global_packs/required_resources/`) and active by default. Features over 400 custom splash texts, UI elements credited to **[Vanilla Tweaks](https://vanillatweaks.net/)**, and custom title assets tailored for Andromeda's Create, built upon a customized fork of unilock's **[ReSplash!](https://modrinth.com/resourcepack/resplash)**.
 - **[Sparkles (Stardust Labs Fork)](https://www.andromedacat.net/sparkles/)** &mdash; pre-bundled in `global_packs/required_resources/` and active by default, ensuring complete texture and localization coverage for Stardust Labs mods (Terralith, Incendium, Nullscape).
