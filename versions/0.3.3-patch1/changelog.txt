@@ -1,0 +1,31 @@
+# Patch notes — Andromeda's Create v0.3.3 · Patch 1
+
+### "Wings & Wilds" — Patch 1
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v033-patch1.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v033-patch1.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v033-patch1%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v033-patch1.zip)
+
+**Server:** ready-to-run NeoForge server, requires Java 21. **8 GB RAM or higher is recommended** in the launch arguments.
+
+**Minecraft:** 1.21.1 · **NeoForge:** 21.1.265
+
+A targeted maintenance patch on top of **v0.3.3**. Updates **DyeDepotCompat** to `0.2.2`.
+
+### Updated
+
+- **[DyeDepotCompat](https://www.andromedacat.net/dyedepotcompat/)** `0.2.1` &rarr; `0.2.2` &mdash; unified compatibility bridge for Dye Depot, adding bug fixes and recipe/tag adjustments for modded dye interactions across Music Disc Maker and Arts & Crafts.
+
+### Server Changes
+
+- **Server Pack updated** to include `dyedepotcompat-0.2.2.jar` (replacing `dyedepotcompat-0.2.1.jar`).
+
+### Removed
+
+- `dyedepotcompat-0.2.1.jar` (superseded by `0.2.2`).
+
+---
+
+## v0.3.3
+
+Base release this patch applies on top of. **Minecraft** 1.21.1 · **NeoForge** 21.1.265.
+
+**Download:** [Prism/MC Launcher](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v033.zip) · [Modrinth](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v033.mrpack) · [CurseForge](https://www.andromedacat.net/cdn/Andromeda's%20Create%20v033%20CF.zip) · [Server Pack](https://www.andromedacat.net/cdn/Andromeda's%20Create%20Server%20v033.zip) · [Full v0.3.3 changelog](https://www.andromedacat.net/ac/changelogs/v033)
